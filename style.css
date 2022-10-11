@@ -1,3 +1,28 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+  }
+
 body {
     background: rgb(138, 198, 206);
+    text-align: center;
+  }
+
+body, h1 {
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.paragraph {
+    background-color: white;
+}
+
+body, p {
+    font-size: 15px;
+}
+
+img {
+    border-radius: 8px;
+    padding: 5px;
+    width: 550px;
   }
