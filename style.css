@@ -50,3 +50,9 @@ button {
 button.green {
   background: rgb(136, 223, 136);
 }
+
+#bottomborder {
+  background: rgb(167, 218, 224);
+  text-align: center;
+  height: 25px;
+}
