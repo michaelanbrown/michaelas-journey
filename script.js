@@ -12,3 +12,10 @@
 // h4.textContent = "October 4th, 2022 is when I finally understood how to live my life.";
 
 // document.querySelector("body").appendChild(h4)
+
+const nothankyou = document.querySelector("#nothankyou");
+function changeColorGreen(green) {
+    nothankyou.style.background = "green";
+}
+
+element.addEventListener("nothankyou", changeColorGreen)

@@ -27,4 +27,26 @@ img {
     border-radius: 8px;
     padding: 5px;
     width: 550px;
-  }
+}
+
+button {
+  padding: 17px;
+  border: none;
+  border-radius:214px;
+  cursor: pointer;
+}
+
+#nothankyou {
+  font-size: 30px;
+  text-align: center;
+  margin: 0 auto;
+  width: 60px;
+}
+
+#wronganswer {
+  font-size: 30px;
+}
+
+button.green {
+  background: rgb(136, 223, 136);
+}
