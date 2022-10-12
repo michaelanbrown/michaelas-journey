@@ -4,9 +4,15 @@ html, body {
   }
 
 body {
-    background: rgb(138, 198, 206);
+    background: rgb(167, 218, 224);
     text-align: center;
   }
+
+.bodyparagraph {
+  margin: 0 auto;
+  width: 32%;
+  padding-bottom: 10px;
+}
 
 body, h1 {
     font-size: 40px;
